@@ -12,6 +12,7 @@ MNIST_data/
 
 # Distribution / packaging
 .Python
+MNIST_data/
 env/
 build/
 develop-eggs/
