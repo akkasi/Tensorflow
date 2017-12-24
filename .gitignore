@@ -3,6 +3,7 @@
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
+MNIST_data/
 *.py[cod]
 *$py.class
 
