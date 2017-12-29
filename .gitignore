@@ -3,7 +3,7 @@
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
-MNIST_data/
+/MNIST_data/
 *.py[cod]
 *$py.class
 
@@ -12,7 +12,7 @@ MNIST_data/
 
 # Distribution / packaging
 .Python
-MNIST_data/
+/MNIST_data/
 env/
 build/
 develop-eggs/
